@@ -1,0 +1,65 @@
+[
+	{
+		"id": 1,
+		"marca": "KROSS VENTO 1.0",
+		"imagen": "img/1.jpg",
+		"precio": "2999",
+		"detalles": ["BICICLETA; ARO: 26″", "VELOCIDAD DE CAMBIO: 21", "ENGRANAJES MATERIAL: HIERRO"]
+	},
+	{
+		"id": 2,
+		"marca": "Bicicleta Crotan Aro 26″ 808",
+		"imagen": "img/2.jpg",
+		"precio": "1259",
+		"detalles": ["BICICLETA; ARO 26″", "VELOCIDAD DE CAMBIO: 21", "BASTIDOR DE ALUMINIO"]
+	},
+	{
+		"id": 3,
+		"marca": "Bicicleta Gangt Aro 26″- 15818",
+		"imagen": "img/3.jpg",
+		"precio": "1399",
+		"detalles": ["BICICLETA; ARO: 26″", "VELOCIDAD DE CAMBIO: 21", "BASTIDOR DE ALUMINIO"]
+	},
+	{
+		"id": 4,
+		"marca": "BICICLETA PHOENIX ARO: 26″ 66691-1",
+		"imagen": "img/4.jpg",
+		"precio": "5900",
+		"detalles": ["BICICLETA; ARO: 26″", "VELOCIDAD DE CAMBIO: 21", "BASTIDOR DE ALUMINIO"]
+	},
+	{
+		"id": 5,
+		"marca": "Bicicleta; Aro: 26″; Velocidad de Cambio: 21 Engranajes; Hierro 6672",
+		"imagen": "img/5.jpg",
+		"precio": "1799",
+		"detalles": ["BICICLETA; ARO: 26″", "VELOCIDAD DE CAMBIO: 21", "ENGRANAJES; HIERRO"]  
+	},
+	{
+		"id": 6,
+		"marca": "Bicicleta Aro 26″ 21 Velocidades de Cambio – Plegable – 6620",
+		"imagen": "img/6.jpg",
+		"precio": "2599",
+		"detalles": ["BICICLETA ARO 26″", "VELOCIDAD DE CAMBIO: 21", "ENGRANAJES: HIERRO"]
+	},
+	{
+		"id": 7,
+		"marca": "Casco de Ciclismo Con Luz",
+		"imagen": "img/7.jpg",
+		"precio": "159",
+		"detalles": ["El sistema de ajuste convence por su delicada construcción y fija el casco uniformemente en la cabeza en una circunferencia de 360 grados. No existe un casco de bicicleta con un ajuste más personalizado, fácil de llevar y confortable."]
+	},
+	{
+		"id": 8,
+		"marca": "Luces para Bicicleta Hid-1863",
+		"imagen": "img/8.jpg",
+		"precio": "69",
+		"detalles": ["Un buen amigo del ciclismo seguro y saludable."]
+	},
+	{
+		"id": 9,
+		"marca": "Luces Volcano para Bicicleta",
+		"imagen": "img/9.jpg",
+		"precio": "70",
+		"detalles": ["Un buen amigo del ciclismo seguro y saludable."]
+	}
+]
